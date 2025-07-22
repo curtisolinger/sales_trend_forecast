@@ -1,3 +1,5 @@
 # sales_trend_forecast
 
-![Sales Trend Forecasting](image.png)
+<p align="center">
+  <img src="image.png" alt="Sales Trend Forecasting" width="400">
+</p>
